@@ -50,5 +50,5 @@ void print_chessboard(char (*a)[8])
 	_putchar(a[k][r]);
 	_putchar('\n');
 		}
-		}
+}
 
